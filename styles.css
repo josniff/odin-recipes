@@ -1,0 +1,18 @@
+* {
+    text-align: center
+}
+
+h1,
+h2 {
+    background-color: rgb(143, 255, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+p {
+    font-size: 21px;
+}
+
+li {
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
